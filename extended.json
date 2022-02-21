@@ -1,7 +1,7 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://raw.githubusercontent.com/cbop/c/main/icon.png",
-        "url_png_logo": "https://raw.githubusercontent.com/cbop/c/main/logo.png",
+        "url_png_icon_64x64": "https://github.com/cbop/c/blob/main/icon.png?raw=true",
+        "url_png_logo": "https://github.com/cbop/c/blob/main/logo.png?raw=true",
         "social": {
             "twitter_handle": "cbosp_"
         }
